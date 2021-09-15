@@ -1,0 +1,32 @@
+Task 1:
+cd veggie-favorites
+
+Task 2:
+git add .
+git commit -m "chili.txt modified by deleting three ingredients"
+
+Task 3:
+cd ../veggie-clone
+
+Task 4:
+git fetch
+
+Task 5:
+git merge origin/master master
+
+Task 6:
+git branch new-branch
+git checkout new-branch
+
+Task 7:
+git add .
+git commit -m "Pancake recipe added"
+
+Task 8:
+git fetch
+
+Task 9:
+git push origin new-branch
+
+Task 10:
+cd ../veggie-favorites
